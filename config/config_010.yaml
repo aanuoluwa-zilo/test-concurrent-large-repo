@@ -1,0 +1,9 @@
+# Config 10
+app:
+  name: TestApp10
+  version: 1.10.0
+  enabled: true
+
+settings:
+  timeout: 100
+  retries: 10
