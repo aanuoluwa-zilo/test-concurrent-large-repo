@@ -1,0 +1,9 @@
+# Config 11
+app:
+  name: TestApp11
+  version: 1.11.0
+  enabled: true
+
+settings:
+  timeout: 110
+  retries: 11
