@@ -1,0 +1,11 @@
+{
+  "app": {
+    "name": "TestApp9",
+    "version": "1.9.0",
+    "enabled": true
+  },
+  "settings": {
+    "timeout": 90,
+    "retries": 9
+  }
+}
