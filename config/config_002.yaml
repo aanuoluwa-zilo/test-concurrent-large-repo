@@ -1,0 +1,9 @@
+# Config 2
+app:
+  name: TestApp2
+  version: 1.2.0
+  enabled: true
+
+settings:
+  timeout: 20
+  retries: 2
