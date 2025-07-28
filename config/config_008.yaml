@@ -1,0 +1,9 @@
+# Config 8
+app:
+  name: TestApp8
+  version: 1.8.0
+  enabled: true
+
+settings:
+  timeout: 80
+  retries: 8
